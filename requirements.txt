@@ -1,7 +1,3 @@
 streamlit
 pandas
 scikit-learn
-# Supprimer numpy==1.21.6
-# ou remplacer par une version compatible avec Python 3.12 si nécessaire
-numpy==1.24.0  
-# Supprimer pywin32==308
